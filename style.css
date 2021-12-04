@@ -1,0 +1,44 @@
+
+
+
+body{
+
+    background-color:black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+ 
+  
+         
+   
+}
+
+.wrapper h1{
+
+    margin-top: 150px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(172, 137, 172);
+    font-size: 50px;
+       
+}
+
+#counter{
+
+    font-size: 50px;
+    font-weight:800;
+    border: 10px;
+    border-radius: 50px;
+    margin-bottom: 40px;
+    color: blanchedalmond;
+    padding:px;
+  
+}
+
+.wrapper button{
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    background-color: purple;
+    color: blanchedalmond;
+    padding: 20px;
+}
